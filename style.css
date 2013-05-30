@@ -1,0 +1,44 @@
+body {
+    font-family: "Tw Cen MT", sans-serif;
+    color: #333;
+    word-spacing: 0.1em;
+    letter-spacing: 0.08em;
+    line-height: 1.4em;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.8em;
+    font-weight: normal;
+}
+p {
+    font-size: 1em;
+    font-family: Georgia, Times, serif;
+}
+.centered {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 140px;
+}
+.visible {
+    display:block;
+    position:fixed;
+}
+.description {
+    display:block;
+    position:fixed;
+    position:fixed;
+    top: 220px;
+    opacity:1;
+    width: 200px;
+}
+article {
+    width: 700px;
+    height: 650px;
+    margin:100px auto;
+}
+img {
+    float: right;
+}
